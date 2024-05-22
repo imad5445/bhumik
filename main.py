@@ -22,10 +22,10 @@ import re
 import os
 
 logging.info("INIT")
-botoken =  "6421444518:AAGWiqsteH5T2eCRpvYri86-9HenexMM17o"
-apid = 26368249
-apihash = "ac2db262d5eb7ce0efc0162404c8d172"
-grp = -1002137695131
+botoken =  "6466259369:AAFNTvJ9qsp4VEb7hIqnlwIxXB6KE1bfoSU"
+apid = 24218997
+apihash = "b0419e875ab8647b12e885e74c492297"
+grp = -1002103215070
 bot = Client("bot",
              bot_token=botoken,
              api_id= apid,
